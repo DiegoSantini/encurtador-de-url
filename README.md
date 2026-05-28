@@ -16,13 +16,21 @@ API RESTful desenvolvida com Laravel para encurtamento de URLs, permitindo cria�
 ## 📌 Funcionalidades
 
 ✅ Criar URLs encurtadas
+
 ✅ Redirecionar URL curta para URL original
+
 ✅ Listar links cadastrados
+
 ✅ Editar URLs
+
 ✅ Remover URLs
+
 ✅ Geração automática de código curto
+
 ✅ Estrutura RESTful
+
 ✅ Integração com PostgreSQL
+
 
 ---
 
