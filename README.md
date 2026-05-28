@@ -11,8 +11,6 @@ API RESTful desenvolvida com Laravel para encurtamento de URLs, permitindo criaÃ
 * PostgreSQL
 * Eloquent ORM
 * REST API
-* Docker (opcional)
-
 ---
 
 ## ðŸ“Œ Funcionalidades
