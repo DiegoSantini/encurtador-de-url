@@ -9,4 +9,4 @@ Route::get('/', function () {
 
 Route::apiResource('urls', UrlController::class);
 
-Route::get('/{code}', [UrlController::class, 'redirect']);
+// Route::get('/{code}', [UrlController::class, 'redirect']);
